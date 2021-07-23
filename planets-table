@@ -7,7 +7,11 @@
         <link href="css/style.css" rel="stylesheet" type="text/css">
     </head>
     <body>
-
+             <header>
+                <h1>PlanetsData </h1>
+             </header>
+          <main>
+              <table>
         <!-- Wrap the top-level heading in a header element -->
         
             <h1>Planets Data</h1>
